@@ -1,0 +1,15 @@
+D:\visual studio apps\WinTimer\WinTimer\bin\Debug\WinTimer.exe.config
+D:\visual studio apps\WinTimer\WinTimer\bin\Debug\WinTimer.exe
+D:\visual studio apps\WinTimer\WinTimer\bin\Debug\WinTimer.pdb
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.csprojAssemblyReference.cache
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\MainWindow.g.cs
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\App.g.cs
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer_MarkupCompile.cache
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer_MarkupCompile.lref
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\MainWindow.baml
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.g.resources
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.Properties.Resources.resources
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.csproj.GenerateResource.cache
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.csproj.CoreCompileInputs.cache
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.exe
+D:\visual studio apps\WinTimer\WinTimer\obj\Debug\WinTimer.pdb
