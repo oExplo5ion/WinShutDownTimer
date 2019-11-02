@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WinTimer"
         mc:Ignorable="d"
+        Icon="ic_icon.png"
         Title="WinTimer" Height="350" Width="700">
     <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="0,50,0,0">
         <Grid.ColumnDefinitions>
