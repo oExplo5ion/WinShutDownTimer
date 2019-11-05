@@ -12,3 +12,4 @@ D:\visual studio apps\WinTimer\WinTimer\obj\Release\WinTimer.csproj.GenerateReso
 D:\visual studio apps\WinTimer\WinTimer\obj\Release\WinTimer.csproj.CoreCompileInputs.cache
 D:\visual studio apps\WinTimer\WinTimer\obj\Release\WinTimer.exe
 D:\visual studio apps\WinTimer\WinTimer\obj\Release\WinTimer.pdb
+D:\visual studio apps\WinTimer\WinTimer\obj\Release\WinTimer.csprojAssemblyReference.cache

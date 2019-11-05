@@ -19,7 +19,7 @@
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
         <TextBlock Text="Shut down timer" FontSize="30" Grid.Row="0" HorizontalAlignment="Center"/>
-        <TextBox Name="Time_Text_Box" PreviewTextInput="NumberValidationTextBox" TextChanged="Time_Text_Box_TextChanged" Grid.Row="1" HorizontalAlignment="Center" Margin="0,20,0,0" MinWidth="200"/>
+        <TextBox Name="Time_Text_Box" Text="15" PreviewTextInput="NumberValidationTextBox" TextChanged="Time_Text_Box_TextChanged" Grid.Row="1" HorizontalAlignment="Center" Margin="0,20,0,0" MinWidth="200"/>
         <RadioButton Name="Radio_Button_M" Content="minutes" GroupName="Times" IsChecked="True" Checked="RadioButton_Times_Checked" Grid.Row="2" HorizontalAlignment="Center" Margin="-100,20,0,0"/>
         <RadioButton Name="Radio_Button_H" Content="hours" Checked="RadioButton_Times_Checked" Grid.Row="2" GroupName="Times" HorizontalAlignment="Center" Margin="100,20,0,0"/>
         <Button Content="Activate" Click="Button_Activate_Click" Grid.Row="3" Background="#3498db" Foreground="White" MaxWidth="150" MinHeight="30" VerticalAlignment="Center" Margin="0,20,0,0"/>

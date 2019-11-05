@@ -7,7 +7,7 @@ class MainWindowData
     // 0 - minutes
     // 1 - hours
     public int TimeType = 0;
-    public int CurrentTime = 0;
+    public int CurrentTime = 15;
 
     public void ActiveShutDown()
     {
